@@ -59,7 +59,7 @@ Use your Tailscale IP instead of a LAN IP if you're viewing the widget from a di
 
 ## Video walkthrough
 
-[Watch the setup walkthrough on YouTube](YOUR_YOUTUBE_LINK_HERE)
+[Watch the setup walkthrough on YouTube](https://youtu.be/o77EiutwSdI)
 
 ## Credit
 
