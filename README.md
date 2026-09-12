@@ -57,6 +57,10 @@ Use your Tailscale IP instead of a LAN IP if you're viewing the widget from a di
 - This proxy mirrors nutty's widget assets live at runtime — it doesn't copy or redistribute them. If nutty changes their site structure, this may need an update.
 - Logs are written to `bridge_widget_proxy.log`, next to wherever the exe/script is running, if you need to troubleshoot.
 
+## Video walkthrough
+
+[Watch the setup walkthrough on YouTube](YOUR_YOUTUBE_LINK_HERE)
+
 ## Credit
 
 - [SMTC Bridge](https://github.com/nuttylmao/smtc-bridge) — a tool by nuttylmao that this proxy sits on top of. It's publicly available on GitHub; note its repo doesn't currently include a license file.
